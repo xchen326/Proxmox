@@ -158,6 +158,7 @@ PHOTOPRISM_SITE_CAPTION='https://tteck.github.io/Proxmox/'
 PHOTOPRISM_STORAGE_PATH='/var/lib/photoprism/storage'
 PHOTOPRISM_ORIGINALS_PATH='/var/lib/photoprism/photos/Originals'
 PHOTOPRISM_IMPORT_PATH='/var/lib/photoprism/photos/Import'
+PHOTOPRISM_SIDECAR_PATH='/var/lib/photoprism/storage/sidecar'
 " >$env_path
 
 msg_info "Creating Service"
